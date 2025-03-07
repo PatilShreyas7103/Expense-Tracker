@@ -5,7 +5,7 @@
 # Expense Tracker
 
 The application features a user-friendly interface that allows users to easily add, edit, and delete expenses. Users can also view their expenses by category and track their spending over time. In addition, the project includes a login and registration system with authentication using JSON Web Token (JWT) to ensure that only authorized users can access the expense data. The users can create their own category, edit it and delete it as well. 
-# Hi, I'm Mohit! 👋
+# Hi, I'm Shreyas! 👋
 
 
 ## Tech Stack
@@ -49,7 +49,7 @@ client will start at localhost:3000
 
 ## Feedback
 
-If you have any feedback, please reach out to us at bmohit162001@gmail.com
+If you have any feedback, please reach out to us at shreyaspatil9131@gmail.com
 
 
 ## Contributing
